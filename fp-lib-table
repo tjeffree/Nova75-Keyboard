@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name "0xLib_Package_DFN_QFN")(type "KiCad")(uri "${KIPRJMOD}/0xLib/Package_DFN_QFN.pretty")(options "")(descr ""))
+  (lib (name "0xLib_USB_Type-C")(type "KiCad")(uri "${KIPRJMOD}/0xLib/USB_Type-C.pretty")(options "")(descr ""))
+  (lib (name "0xLib_Connectors")(type "KiCad")(uri "${KIPRJMOD}/0xLib/Connectors.pretty")(options "")(descr ""))
+  (lib (name "0xLib_Diode_Transistor")(type "KiCad")(uri "${KIPRJMOD}/0xLib/Diode_Transistor.pretty")(options "")(descr ""))
+  (lib (name "0xB2_drawings")(type "KiCad")(uri "${KIPRJMOD}/drawings.pretty")(options "")(descr ""))
+  (lib (name "local-libraries")(type "KiCad")(uri "${KIPRJMOD}/local-libraries")(options "")(descr ""))
+  (lib (name "redox_w_transmitters_v2")(type "KiCad")(uri "${KIPRJMOD}/redox_w_transmitters_v2.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Type-C.pretty-master")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib-main/marbastlib-various.pretty")(options "")(descr ""))
+)

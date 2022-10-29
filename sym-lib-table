@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib-main/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_RP2040")(type "KiCad")(uri "${KIPRJMOD}/local-libraries/MCU_RaspberryPi_RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "projectlocal")(type "KiCad")(uri "${KIPRJMOD}/local-libraries/projectlocal.kicad_sym")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "Legacy")(uri "${KIPRJMOD}/local-libraries/TYPE-C-31-M-12.lib")(options "")(descr ""))
+)
